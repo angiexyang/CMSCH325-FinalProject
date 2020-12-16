@@ -1,4 +1,3 @@
-
 CMSC H325 Computational Linguistics
 Professor Alvin Grissom
 Rachel Lee, Angie Yang
